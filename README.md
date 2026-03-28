@@ -1,4 +1,4 @@
-# 📘 AI-900 Master Preparation Guide (Updated March 2026)
+# AI-900 Master Preparation Guide (Updated  03/2026)
 
 ---
 
