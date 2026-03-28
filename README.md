@@ -33,7 +33,7 @@ Follow this sequence for best results:
 
 ### 2. Practice Q/A
 - Attempt the **Q/A sets**
-- ⏱️ Time yourself
+- Time yourself
 - Be honest (simulate real exam conditions)
 
 ---
