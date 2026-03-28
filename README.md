@@ -2,18 +2,18 @@
 
 ---
 
-## 📌 About This Guide
+## About This Guide
 
 This guide is **updated for AI-900** based on a real test taken in **March 2026**.
 
 It includes:
-- ✅ All key concepts covered in the exam  
-- 🧠 Flashcards for quick revision  
-- ❓ Q/A Sets for practice  
+- All key concepts covered in the exam  
+- Flashcards for quick revision  
+- Q/A Sets for practice  
 
 ---
 
-## 📚 Recommended Learning Path
+## Recommended Learning Path
 
 I recommend following this **official learning path** for in-depth understanding:
 
@@ -45,7 +45,7 @@ Follow this sequence for best results:
 
 ---
 
-## 🔁 Suggested Strategy
+## Suggested Strategy
 
 - Learn → Practice → Revise → Repeat  
 - Focus more on:
