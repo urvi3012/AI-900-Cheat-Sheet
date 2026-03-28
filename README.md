@@ -21,7 +21,7 @@ I recommend following this **official learning path** for in-depth understanding
 
 ---
 
-## 🧩 How to Use This Repository
+## How to Use This Repository
 
 Follow this sequence for best results:
 
@@ -54,9 +54,10 @@ Follow this sequence for best results:
 
 ---
 
-## 🚀 Pro Tip
+## Pro Tip
 
 Consistency beats intensity.  
 Even **1–2 focused revisions** of this repo is enough to confidently clear AI-900.
+Plus, do take some mock tests on Udemy/ skillcertpro
 
 ---
